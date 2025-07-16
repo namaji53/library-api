@@ -1,0 +1,7 @@
+id,name,type
+1,Fantasy,Fiction
+2,Science,Non-Fiction
+3,Fiction,Fiction
+4,History,Non-Fiction
+5,Biography,Non-Fiction
+6,string,string
